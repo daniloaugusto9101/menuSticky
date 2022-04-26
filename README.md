@@ -1,9 +1,9 @@
 <p align="center">
- Projeto de Menu Hamburguer responsivo
+ Projeto de Menu Sticky
 </p>
 
 <h1 align="center"> 
-Menu Hamburguer
+Menu sticky
 </h1>
 
 # Tabela de Conteúdos
@@ -23,7 +23,7 @@ Menu Hamburguer
 - [x] Criação de páginas html
 - [x] Estilizando o CSS
 - [x] Animação com JavaScript
-- [x] Estilização menu hamburguer
+- [x] Estilização menu sticky
 - [x] Publicação no git.io
 
 
